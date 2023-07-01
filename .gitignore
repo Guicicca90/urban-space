@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.csv
+*.xlsx
+*.parquet
+*.db
+.DS_Store
+desktop.ini
+.ipynb_checkpoints/
