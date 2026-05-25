@@ -55,5 +55,5 @@ Owner contact extraction from IPTU public records — builds a prospecting pipel
 
 ---
 
-*Geodata enrichment utilities live in [bquant/geo](https://github.com/MaxPower90/bquant).*
-*Rural counterpart: [solo-inteligente](https://github.com/MaxPower90/solo-inteligente).*
+*Geodata enrichment utilities live in [bquant/geo](https://github.com/Guicicca90/bquant).*
+*Rural counterpart: [solo-inteligente](https://github.com/Guicicca90/solo-inteligente).*
